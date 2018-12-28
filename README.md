@@ -10,8 +10,21 @@ Place to keep training certificates and class information.
 - September Bsides PDX
 - SecureWorld Seatlle Nov 13-14
 
-
-
-
-
 - July 30 - Aug 2 DEFCON 28 2020
+
+
+## Booklist
+- RTFM
+- BTFM
+- PoC||GTFO
+- PoC||GTFO2
+- Cracking Codes with Python
+- BTFM SOC, SIEM, Threat Hunting use cases
+- Black Hat Python
+- Pratical Binary Analysis
+- Red Team Planner red/black + black/red
+- One-Time Grid: random password book
+- Open Source Intelligence Techniques
+- Python for Offensive PenTest
+- CyberSecurity Attack and Defense Strategies
+- Think lIke a Hacker: A Sysadmins guide to cybersecurity
