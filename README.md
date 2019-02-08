@@ -32,3 +32,11 @@ Place to keep training certificates and class information.
 
 ## Training Tools
 - https://opencyberchallenge.net/
+- https://www.ukessays.com/dissertation/examples/information-technology/honeynet.php
+- http://www.govtech.com/blogs/lohrmann-on-cybersecurity/cyber-range-who-what-when-where-how-and-why.html
+- https://www.tsieda.com/single-post/2017/04/16/Build-and-easily-deploy-your-own-virtual-cyber-range-for-training-or-exercises-for-compliance-and-validation-of-security
+- https://www.paloaltonetworks.com/solutions/initiatives/cyberrange-diy  
+- 
+
+
+
