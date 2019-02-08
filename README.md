@@ -3,7 +3,7 @@ Place to keep training certificates and class information.
 
 
 ## Conference Dates
-- Feb 9th Bsides Seattle 8-8:30AM
+- Feb 23rd Bsides Seattle 8-8:30AM
 - SANS Seattle April 14-19
 -
 - August 8-11 DEFCON 27 Las Vegas 
@@ -28,3 +28,7 @@ Place to keep training certificates and class information.
 - Python for Offensive PenTest
 - CyberSecurity Attack and Defense Strategies
 - Think lIke a Hacker: A Sysadmins guide to cybersecurity
+
+
+## Training Tools
+- https://opencyberchallenge.net/
